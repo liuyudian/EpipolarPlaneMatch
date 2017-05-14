@@ -1,0 +1,1247 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
+    <generated>
+      <config projectName="EpipolarPlaneMatch" targetName="EpipolarPlaneMatch" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70d62ea9-1def-42eb-a032-2e8998c8972b" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="types_six_dof_expmap.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1">
+              <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+              <folding>
+                <marker date="1491390400959" expanded="true" signature="6087:6090" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Optimizer.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Optimizer.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="257">
+              <caret line="237" column="19" lean-forward="false" selection-start-line="237" selection-start-column="19" selection-end-line="237" selection-end-column="19" />
+              <folding>
+                <element signature="e#39#61#0" expanded="true" />
+                <element signature="e#5013#8311#0" expanded="false" />
+                <marker date="1494727753147" expanded="true" signature="744:28438" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Optimizer.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/Optimizer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="202" column="21" lean-forward="false" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="21" />
+              <folding>
+                <element signature="e#1173#1185#0" expanded="true" />
+                <element signature="e#3114#3126#0" expanded="true" />
+                <element signature="e#4475#4487#0" expanded="true" />
+                <element signature="e#5635#5647#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DenseStorage.h" pinned="false" current-in-tab="true">
+        <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/DenseStorage.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="322">
+              <caret line="198" column="6" lean-forward="true" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base_edge.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/base_edge.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="259">
+              <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+              <folding>
+                <element signature="e#1486#1505#0" expanded="true" />
+                <element signature="e#1634#1653#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tracking.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Tracking.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="179">
+              <caret line="190" column="0" lean-forward="true" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+              <folding>
+                <element signature="e#40#61#0" expanded="true" />
+                <element signature="e#2234#2408#0" expanded="false" />
+                <element signature="e#2482#3543#0" expanded="false" />
+                <element signature="e#7287#8362#0" expanded="false" />
+                <element signature="e#8368#9875#0" expanded="false" />
+                <element signature="e#9881#10097#0" expanded="false" />
+                <element signature="e#10103#11710#0" expanded="false" />
+                <element signature="e#11716#15557#0" expanded="false" />
+                <element signature="e#15563#16519#0" expanded="false" />
+                <element signature="e#16525#16626#0" expanded="false" />
+                <element signature="e#16525#17329#0" expanded="false" />
+                <element signature="e#17335#18416#0" expanded="false" />
+                <element signature="e#18422#20004#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="optimizable_graph.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/optimizable_graph.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+              <folding>
+                <element signature="e#1514#1528#0" expanded="true" />
+                <marker date="1491390400955" expanded="true" signature="1805:25571" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="1971:2354" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="2402:25543" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="2425:2520" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="2657:2837" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="2897:3494" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="3501:3559" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="3588:3712" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="3661:3706" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="3719:3825" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="3852:3988" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="3921:3982" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="4213:4277" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="4324:13158" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="4755:4829" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="5397:5508" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="5803:5874" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="5931:6083" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="6150:6304" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="6368:6522" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="6589:6784" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="6795:6900" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="6972:7077" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="7152:7333" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="7344:7493" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="7550:7712" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="7783:7945" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="8019:8227" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="8238:8342" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="8422:8526" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="8608:8803" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="8814:8963" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="9446:9737" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="9782:9842" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="11461:11622" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="11695:11798" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="12471:12591" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="12770:12875" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="12959:13070" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="13206:19147" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="14084:14243" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="14448:14524" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="15118:15381" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="15442:15938" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="16031:16173" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="16482:16781" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="18002:18166" ph="{...}" />
+                <marker date="1491390400955" expanded="false" signature="18342:18375" ph="&lt;ParameterType&gt;" />
+                <marker date="1491390400955" expanded="true" signature="18456:18726" ph="{...}" />
+                <marker date="1491390400955" expanded="false" signature="18736:18765" ph="&lt;CacheType&gt;" />
+                <marker date="1491390400955" expanded="true" signature="19693:19858" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="20008:20248" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="20478:20583" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="20627:20718" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="23147:23395" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="23463:23700" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="23841:23894" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="23968:24017" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="24052:24102" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="24108:24374" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="24877:25171" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="25550:25566" ph="/**...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Frame.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/include/Frame.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="134">
+              <caret line="63" column="52" lean-forward="false" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="types_six_dof_expmap.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-234">
+              <caret line="364" column="0" lean-forward="false" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
+              <folding>
+                <marker date="1491390400959" expanded="true" signature="10238:10242" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sparse_optimizer.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/sparse_optimizer.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+              <folding>
+                <marker date="1491390400955" expanded="true" signature="1647:12576" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="1846:1964" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="2261:2655" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="2729:3189" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="3278:3647" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="3707:3785" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="3888:4407" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="4453:4517" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="4597:4650" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="4963:5291" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="5415:5677" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="5762:6025" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="6031:6309" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="6405:6705" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="7118:7347" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="7519:7649" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="8266:8579" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="8639:8780" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="8880:9015" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="10274:10459" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="10491:10583" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="10621:10732" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="10790:10866" ph="{...}" />
+                <marker date="1491390400955" expanded="true" signature="10872:11048" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="11093:11169" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="11262:11338" ph="/**...*/" />
+                <marker date="1491390400955" expanded="true" signature="12214:12317" ph="/**...*/" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>WPolyLine</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/main.cpp" />
+        <option value="$PROJECT_DIR$/include/ORBextractor.h" />
+        <option value="$PROJECT_DIR$/src/ORBextractor.cc" />
+        <option value="$PROJECT_DIR$/src/Frame.cc" />
+        <option value="$PROJECT_DIR$/src/ORBmatcher.cc" />
+        <option value="$PROJECT_DIR$/include/ORBmatcher.h" />
+        <option value="$PROJECT_DIR$/include/CommonFunctions.h" />
+        <option value="$PROJECT_DIR$/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/src/Visualizer.cpp" />
+        <option value="$PROJECT_DIR$/include/Visualizer.h" />
+        <option value="$PROJECT_DIR$/src/SLAM.cpp" />
+        <option value="$PROJECT_DIR$/include/SLAM.h" />
+        <option value="$PROJECT_DIR$/src/Converter.cpp" />
+        <option value="$PROJECT_DIR$/include/Converter.h" />
+        <option value="$PROJECT_DIR$/include/Plane.h" />
+        <option value="$PROJECT_DIR$/src/Plane.cpp" />
+        <option value="$PROJECT_DIR$/include/Map.h" />
+        <option value="$PROJECT_DIR$/src/Map.cpp" />
+        <option value="$PROJECT_DIR$/include/Tracking.h" />
+        <option value="$PROJECT_DIR$/include/Frame.h" />
+        <option value="$PROJECT_DIR$/src/Frame.cpp" />
+        <option value="$PROJECT_DIR$/include/KeyFrame.h" />
+        <option value="$PROJECT_DIR$/include/MapPoint.h" />
+        <option value="$PROJECT_DIR$/src/ORBmatcher.cpp" />
+        <option value="$PROJECT_DIR$/src/KeyFrame.cpp" />
+        <option value="$PROJECT_DIR$/src/MapPoint.cpp" />
+        <option value="$PROJECT_DIR$/src/main.cpp" />
+        <option value="$PROJECT_DIR$/include/Optimizer.h" />
+        <option value="$PROJECT_DIR$/Thirdparty/g2o/g2o/core/optimizable_graph.h" />
+        <option value="$PROJECT_DIR$/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp" />
+        <option value="$PROJECT_DIR$/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h" />
+        <option value="$PROJECT_DIR$/src/Optimizer.cpp" />
+        <option value="$PROJECT_DIR$/src/Tracking.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="65" />
+    <option name="y" value="-6" />
+    <option name="width" value="1855" />
+    <option name="height" value="1086" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thirdparty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g2o" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thirdparty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g2o" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g2o" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="types" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thirdparty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g2o" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="g2o" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Thirdparty" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="include" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.CidrFilesViewHelper$MyProjectTreeStructure$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="EpipolarPlaneMatch" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Examples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.EpipolarPlaneMatch">
+    <configuration default="true" type="CLion_Remote" factoryName="GDB Remote Debug" remoteCommand="" symbolFile="" sysroot="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeCatchTestRunConfigurationType" factoryName="Catch Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ChromiumRemoteDebugType" factoryName="Chromium Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
+      <method />
+    </configuration>
+    <configuration default="true" type="FirefoxRemoteDebugType" factoryName="Firefox Remote">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeWebKit" factoryName="NW.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EpipolarPlaneMatch" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ReactNative" factoryName="React Native">
+      <node-interpreter value="project" />
+      <platform value="ANDROID" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EpipolarPlaneMatch" />
+      <method />
+    </configuration>
+    <configuration default="true" type="XSLT" factoryName="XSLT">
+      <option name="myOutputFile" />
+      <option name="myOpenOutputFile" value="false" />
+      <option name="myOpenInBrowser" value="false" />
+      <option name="mySmartErrorHandling" value="true" />
+      <option name="myRunnerPort" value="34873" />
+      <option name="myVmArguments" />
+      <option name="myWorkingDirectory" />
+      <option name="myModule" />
+      <option name="myJdk" />
+      <parameters />
+      <OutputType value="CONSOLE" save-to-file="false" />
+      <FileType name="XML" />
+      <JdkChoice value="FROM_MODULE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.grunt" factoryName="Grunt.js">
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EpipolarPlaneMatch" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EpipolarPlaneMatch" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EpipolarPlaneMatch" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="EpipolarPlaneMatch" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="EpipolarPlaneMatch" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="EpipolarPlaneMatch" TARGET_NAME="EpipolarPlaneMatch" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="EpipolarPlaneMatch" RUN_TARGET_NAME="EpipolarPlaneMatch">
+      <envs />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Application.Build All" />
+      <item index="1" class="java.lang.String" itemvalue="Application.EpipolarPlaneMatch" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70d62ea9-1def-42eb-a032-2e8998c8972b" name="Default" comment="" />
+      <created>1493214921242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1493214921242</updated>
+      <workItem from="1493214922534" duration="793000" />
+      <workItem from="1493434893460" duration="34916000" />
+      <workItem from="1493773250194" duration="31121000" />
+      <workItem from="1493948561225" duration="43465000" />
+      <workItem from="1494377071673" duration="36600000" />
+      <workItem from="1494664207055" duration="10554000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157449000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="65" y="-6" width="1855" height="1086" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39979014" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CMake" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36670548" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15287958" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14339623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32948583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3221406" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="23" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Frame.cc" />
+    <entry file="file:///usr/include/c++/5/bits/c++0x_warning.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="31" column="1" lean-forward="false" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ORBmatcher.cc" />
+    <entry file="file://$PROJECT_DIR$/include/ORBextractor.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="9" column="28" lean-forward="false" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/features2d.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-134">
+          <caret line="787" column="29" lean-forward="false" selection-start-line="787" selection-start-column="8" selection-end-line="787" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ORBextractor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9412">
+          <caret line="362" column="0" lean-forward="false" selection-start-line="362" selection-start-column="0" selection-end-line="362" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/solver.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="1031" column="35" lean-forward="false" selection-start-line="1031" selection-start-column="35" selection-end-line="1031" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/problem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="210" column="70" lean-forward="false" selection-start-line="210" selection-start-column="68" selection-end-line="210" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/viz/widgets.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="280" column="45" lean-forward="true" selection-start-line="280" selection-start-column="45" selection-end-line="280" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/viz/types.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="62" column="14" lean-forward="false" selection-start-line="62" selection-start-column="14" selection-end-line="62" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Visualizer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="2" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Visualizer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="37" column="39" lean-forward="true" selection-start-line="37" selection-start-column="39" selection-end-line="37" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="64" column="8" lean-forward="false" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/CommonFunctions.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1062">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/rotation.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="355" column="12" lean-forward="false" selection-start-line="355" selection-start-column="12" selection-end-line="355" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/SLAM.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="3369" column="0" lean-forward="false" selection-start-line="3369" selection-start-column="0" selection-end-line="3369" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SLAM.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///opt/ros/kinetic/include/opencv-3.2.0-dev/opencv2/core/mat.inl.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="3105" column="0" lean-forward="false" selection-start-line="3105" selection-start-column="0" selection-end-line="3105" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Converter.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="130" column="5" lean-forward="false" selection-start-line="130" selection-start-column="5" selection-end-line="130" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Converter.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/autodiff_cost_function.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="171" column="11" lean-forward="false" selection-start-line="171" selection-start-column="11" selection-end-line="171" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Plane.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="936">
+          <caret line="36" column="31" lean-forward="false" selection-start-line="36" selection-start-column="31" selection-end-line="36" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/sized_cost_function.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-533">
+          <caret line="49" column="6" lean-forward="false" selection-start-line="49" selection-start-column="6" selection-end-line="49" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/stdlib.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="773" column="11" lean-forward="false" selection-start-line="773" selection-start-column="11" selection-end-line="773" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/KITTI04-12.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/ceres/internal/variadic_evaluate.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="165" column="18" lean-forward="false" selection-start-line="165" selection-start-column="18" selection-end-line="165" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Map.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="111" column="49" lean-forward="false" selection-start-line="111" selection-start-column="49" selection-end-line="111" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Map.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="36" column="92" lean-forward="false" selection-start-line="36" selection-start-column="92" selection-end-line="36" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Tracking.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="93" column="49" lean-forward="false" selection-start-line="93" selection-start-column="49" selection-end-line="93" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Frame.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="513" column="0" lean-forward="false" selection-start-line="513" selection-start-column="2" selection-end-line="514" selection-end-column="27" />
+          <folding>
+            <element signature="e#40#58#0" expanded="false" />
+            <element signature="e#4512#4770#0" expanded="false" />
+            <element signature="e#5338#7309#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/MapPoint.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="65" column="66" lean-forward="false" selection-start-line="65" selection-start-column="66" selection-end-line="65" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/ORBmatcher.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="43" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ORBmatcher.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="598">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding>
+            <element signature="e#2021#3419#0" expanded="false" />
+            <element signature="e#3425#4880#0" expanded="false" />
+            <element signature="e#4886#5850#0" expanded="false" />
+            <element signature="e#5856#6803#0" expanded="false" />
+            <element signature="e#6809#8838#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KeyFrame.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="962">
+          <caret line="37" column="47" lean-forward="false" selection-start-line="37" selection-start-column="47" selection-end-line="37" selection-end-column="47" />
+          <folding>
+            <element signature="e#3957#4236#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/KeyFrame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3666">
+          <caret line="141" column="4" lean-forward="false" selection-start-line="141" selection-start-column="4" selection-end-line="141" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/block_solver.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="74" column="0" lean-forward="false" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Plane.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2678">
+          <caret line="103" column="0" lean-forward="false" selection-start-line="103" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MapPoint.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5330">
+          <caret line="205" column="18" lean-forward="false" selection-start-line="205" selection-start-column="18" selection-end-line="205" selection-end-column="18" />
+          <folding>
+            <element signature="e#3870#5330#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Frame.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="63" column="52" lean-forward="false" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/sparse_optimizer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="44" column="4" lean-forward="false" selection-start-line="44" selection-start-column="4" selection-end-line="44" selection-end-column="4" />
+          <folding>
+            <marker date="1491390400955" expanded="true" signature="1647:12576" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="1846:1964" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="2261:2655" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="2729:3189" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="3278:3647" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="3707:3785" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="3888:4407" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="4453:4517" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="4597:4650" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="4963:5291" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="5415:5677" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="5762:6025" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="6031:6309" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="6405:6705" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="7118:7347" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="7519:7649" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="8266:8579" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="8639:8780" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="8880:9015" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="10274:10459" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="10491:10583" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="10621:10732" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="10790:10866" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="10872:11048" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="11093:11169" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="11262:11338" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="12214:12317" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/base_edge.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="84" column="7" lean-forward="false" selection-start-line="84" selection-start-column="7" selection-end-line="84" selection-end-column="7" />
+          <folding>
+            <element signature="e#1486#1505#0" expanded="true" />
+            <element signature="e#1634#1653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/types/types_six_dof_expmap.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-234">
+          <caret line="364" column="0" lean-forward="false" selection-start-line="364" selection-start-column="0" selection-end-line="364" selection-end-column="0" />
+          <folding>
+            <marker date="1491390400959" expanded="true" signature="10238:10242" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/core/optimizable_graph.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+          <folding>
+            <element signature="e#1514#1528#0" expanded="true" />
+            <marker date="1491390400955" expanded="true" signature="1805:25571" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="1971:2354" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="2402:25543" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="2425:2520" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="2657:2837" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="2897:3494" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="3501:3559" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="3588:3712" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="3661:3706" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="3719:3825" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="3852:3988" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="3921:3982" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="4213:4277" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="4324:13158" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="4755:4829" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="5397:5508" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="5803:5874" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="5931:6083" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="6150:6304" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="6368:6522" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="6589:6784" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="6795:6900" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="6972:7077" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="7152:7333" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="7344:7493" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="7550:7712" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="7783:7945" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="8019:8227" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="8238:8342" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="8422:8526" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="8608:8803" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="8814:8963" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="9446:9737" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="9782:9842" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="11461:11622" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="11695:11798" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="12471:12591" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="12770:12875" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="12959:13070" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="13206:19147" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="14084:14243" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="14448:14524" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="15118:15381" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="15442:15938" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="16031:16173" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="16482:16781" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="18002:18166" ph="{...}" />
+            <marker date="1491390400955" expanded="false" signature="18342:18375" ph="&lt;ParameterType&gt;" />
+            <marker date="1491390400955" expanded="true" signature="18456:18726" ph="{...}" />
+            <marker date="1491390400955" expanded="false" signature="18736:18765" ph="&lt;CacheType&gt;" />
+            <marker date="1491390400955" expanded="true" signature="19693:19858" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="20008:20248" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="20478:20583" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="20627:20718" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="23147:23395" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="23463:23700" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="23841:23894" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="23968:24017" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="24052:24102" ph="{...}" />
+            <marker date="1491390400955" expanded="true" signature="24108:24374" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="24877:25171" ph="/**...*/" />
+            <marker date="1491390400955" expanded="true" signature="25550:25566" ph="/**...*/" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Thirdparty/g2o/g2o/types/types_six_dof_expmap.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="203" column="0" lean-forward="false" selection-start-line="203" selection-start-column="0" selection-end-line="203" selection-end-column="0" />
+          <folding>
+            <marker date="1491390400959" expanded="true" signature="6087:6090" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/Matrix.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="378" column="28" lean-forward="false" selection-start-line="378" selection-start-column="28" selection-end-line="378" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/include/Optimizer.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="202" column="21" lean-forward="false" selection-start-line="202" selection-start-column="21" selection-end-line="202" selection-end-column="21" />
+          <folding>
+            <element signature="e#1173#1185#0" expanded="true" />
+            <element signature="e#3114#3126#0" expanded="true" />
+            <element signature="e#4475#4487#0" expanded="true" />
+            <element signature="e#5635#5647#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Optimizer.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="257">
+          <caret line="237" column="19" lean-forward="false" selection-start-line="237" selection-start-column="19" selection-end-line="237" selection-end-column="19" />
+          <folding>
+            <element signature="e#39#61#0" expanded="true" />
+            <element signature="e#5013#8311#0" expanded="false" />
+            <marker date="1494727753147" expanded="true" signature="744:28438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tracking.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="190" column="0" lean-forward="true" selection-start-line="190" selection-start-column="0" selection-end-line="190" selection-end-column="0" />
+          <folding>
+            <element signature="e#40#61#0" expanded="true" />
+            <element signature="e#2234#2408#0" expanded="false" />
+            <element signature="e#2482#3543#0" expanded="false" />
+            <element signature="e#7287#8362#0" expanded="false" />
+            <element signature="e#8368#9875#0" expanded="false" />
+            <element signature="e#9881#10097#0" expanded="false" />
+            <element signature="e#10103#11710#0" expanded="false" />
+            <element signature="e#11716#15557#0" expanded="false" />
+            <element signature="e#15563#16519#0" expanded="false" />
+            <element signature="e#16525#16626#0" expanded="false" />
+            <element signature="e#16525#17329#0" expanded="false" />
+            <element signature="e#17335#18416#0" expanded="false" />
+            <element signature="e#18422#20004#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/include/eigen3/Eigen/src/Core/DenseStorage.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="198" column="6" lean-forward="true" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
